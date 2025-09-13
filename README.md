@@ -68,9 +68,10 @@ print(f"Predicted value: {pre}")
 ## Output:
 
 <img width="756" height="160" alt="Screenshot 2025-09-13 084132" src="https://github.com/user-attachments/assets/0c0fc7a0-04c4-4963-8943-b3f7a6af0a0e" />
-
+<br>
 
 <img width="225" height="713" alt="311714594-a026977b-70de-475a-bf0d-65918be7158d" src="https://github.com/user-attachments/assets/aa4b991c-a717-4c3c-ada6-5332bb8cfbf0" />
+<br>
 
 <img width="343" height="707" alt="311714652-ee49a231-be1b-47f9-8d73-18fd9c7ca74c" src="https://github.com/user-attachments/assets/ff61d2ac-fa9f-4020-a1c4-6cf29d6b6831" />
 
